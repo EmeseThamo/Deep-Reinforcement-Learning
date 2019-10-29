@@ -18,4 +18,6 @@ This is a structured collection of useful Deep Reinforcement Learning resources.
 - https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#hth
 - https://www.udemy.com/course/deeplearning/learn/lecture/12350046#overview
 
+<p align="center">
 ![alt text](4B07126C-B427-4087-BA9F-A1CB0E08C88E.jpeg)
+</p>
