@@ -1,6 +1,17 @@
 # OpenAI Baselines
 
-Aims to reproduce reinforcement learning algorithms with performance on par with published results.
+High-quality implementations of reinforcement learning algorithms.
+
+Covered material:
+https://openai.com/blog/openai-baselines-dqn/
+https://github.com/openai/baselines
+
+
+
+Implementation:
+
+
+
 
 **Difficulties in reproducing RL results:**
 - very noisy performance
