@@ -3,10 +3,8 @@
 High-quality implementations of reinforcement learning algorithms.
 
 Covered material:
-https://openai.com/blog/openai-baselines-dqn/
-https://github.com/openai/baselines
-
-
+- https://openai.com/blog/openai-baselines-dqn/
+- https://github.com/openai/baselines
 
 Implementation:
 
