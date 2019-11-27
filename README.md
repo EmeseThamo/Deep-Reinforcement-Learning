@@ -1,8 +1,6 @@
 # Deep Reinforcement Learning
 
-This is a structured collection of useful Deep Reinforcement Learning resources.
-
-I like impelementing everything in Google Colab first for a quick start.
+This is a structured collection of useful Deep Reinforcement Learning resources. (In progress...)
 
 **To get pretrained models and train agents yourself:**
 - OpenAI Baselines: https://openai.com/blog/openai-baselines-dqn/
